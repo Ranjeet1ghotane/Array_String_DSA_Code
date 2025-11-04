@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Stream_API",
+      "request": "launch",
+      "mainClass": "Stream_API",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "BubbleSort",
       "request": "launch",
       "mainClass": "BubbleSort",

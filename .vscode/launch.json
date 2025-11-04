@@ -1,0 +1,234 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciNumber",
+      "request": "launch",
+      "mainClass": "FibonacciNumber",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "SecondLargest",
+      "request": "launch",
+      "mainClass": "SecondLargest",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "SumOfSubArrays",
+      "request": "launch",
+      "mainClass": "SumOfSubArrays",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Panagram",
+      "request": "launch",
+      "mainClass": "Panagram",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Palindrom_Number",
+      "request": "launch",
+      "mainClass": "Palindrom_Number",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Pattrn1",
+      "request": "launch",
+      "mainClass": "Pattrn1",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "GCD",
+      "request": "launch",
+      "mainClass": "GCD",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicateFromString",
+      "request": "launch",
+      "mainClass": "RemoveDuplicateFromString",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "CountTheIntegerInString",
+      "request": "launch",
+      "mainClass": "CountTheIntegerInString",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "ReturnIndexOfTargetElement",
+      "request": "launch",
+      "mainClass": "ReturnIndexOfTargetElement",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "ConvertStrToArray",
+      "request": "launch",
+      "mainClass": "ConvertStrToArray",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "ReverseString",
+      "request": "launch",
+      "mainClass": "ReverseString",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "practice2",
+      "request": "launch",
+      "mainClass": "practice2",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "MoveZeroToEnd",
+      "request": "launch",
+      "mainClass": "MoveZeroToEnd",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Maximum_Consecutive_Ones",
+      "request": "launch",
+      "mainClass": "Maximum_Consecutive_Ones",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "Left_Rotate_Array_By_One",
+      "request": "launch",
+      "mainClass": "Left_Rotate_Array_By_One",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "IsSorted",
+      "request": "launch",
+      "mainClass": "IsSorted",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicateFromArray",
+      "request": "launch",
+      "mainClass": "RemoveDuplicateFromArray",
+      "projectName": "practice_13d278d"
+    },
+    {
+      "type": "java",
+      "name": "NumberThatAppearsOnce",
+      "request": "launch",
+      "mainClass": "NumberThatAppearsOnce",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "RemoveDuplicateFromArray",
+      "request": "launch",
+      "mainClass": "RemoveDuplicateFromArray",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "Left_Rotate_Array_By_One",
+      "request": "launch",
+      "mainClass": "Left_Rotate_Array_By_One",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "IsSorted",
+      "request": "launch",
+      "mainClass": "IsSorted",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "Pattrn1",
+      "request": "launch",
+      "mainClass": "Pattrn1",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumber",
+      "request": "launch",
+      "mainClass": "PrimeNumber",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "Largest_Element",
+      "request": "launch",
+      "mainClass": "Largest_Element",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "LargestStringInArray",
+      "request": "launch",
+      "mainClass": "LargestStringInArray",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumberInArray",
+      "request": "launch",
+      "mainClass": "MissingNumberInArray",
+      "projectName": "practice_cff973de"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Admin/Downloads/practice",
+      "program": "c:/Users/Admin/Downloads/practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

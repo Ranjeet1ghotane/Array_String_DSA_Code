@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StreamApiMinMax",
+      "request": "launch",
+      "mainClass": "StreamApiMinMax",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "ConvertListIntoMap",
       "request": "launch",
       "mainClass": "ConvertListIntoMap",

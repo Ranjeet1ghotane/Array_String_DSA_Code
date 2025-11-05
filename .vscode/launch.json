@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FunctionalExample",
+      "request": "launch",
+      "mainClass": "FunctionalExample",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "StreamApiMinMax",
       "request": "launch",
       "mainClass": "StreamApiMinMax",

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConvertListIntoMap",
+      "request": "launch",
+      "mainClass": "ConvertListIntoMap",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "Stream_API",
       "request": "launch",
       "mainClass": "Stream_API",

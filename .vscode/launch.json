@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "DSA.LinearSearch",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "FunctionalExample",
       "request": "launch",
       "mainClass": "FunctionalExample",

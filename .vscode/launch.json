@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "LinearSearch",
       "request": "launch",
       "mainClass": "LinearSearch",

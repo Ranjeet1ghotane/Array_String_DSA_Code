@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FirstCharWhichNotReapet",
+      "request": "launch",
+      "mainClass": "FirstCharWhichNotReapet",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
+      "name": "ConvertStrToArray",
+      "request": "launch",
+      "mainClass": "ConvertStrToArray",
+      "projectName": "practice_b4dbe97d"
+    },
+    {
+      "type": "java",
       "name": "SelectionSort",
       "request": "launch",
       "mainClass": "SelectionSort",

@@ -2,7 +2,11 @@ import java.util.Arrays;
 
 public class InsertionSort {
     public int[] insertionSort(int[] arr) {
-
+        /*
+         * in insertion sort i start form 2nd element of array and i element is key
+         * element
+         * and j start form 1st emement of array
+         */
         for (int i = 1; i < arr.length; i++) {
             int key = arr[i];
             int j = i - 1;

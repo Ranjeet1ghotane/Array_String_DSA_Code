@@ -9,8 +9,7 @@ public class BinarySearch {
             int middle = (left + right) / 2;
             if (arr[middle] == target) {
                 return middle;
-            }
-            else if (arr[middle] < target) {
+            } else if (arr[middle] < target) {
                 left = middle + 1;
             } else {
                 right = middle - 1;
@@ -23,7 +22,7 @@ public class BinarySearch {
     public static void main(String[] args) {
 
         int[] arr = { 4, 8, 4, 5, 2, 1, 4, 7 };
-         Arrays.sort(arr);
+        Arrays.sort(arr);
         int target = 5;
         BinarySearch bi = new BinarySearch();
         int res = bi.binarySearch(arr, target);
